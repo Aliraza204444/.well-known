@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.aliraza.cv.base",
+    "package_name": "com.ahmad.cv.base",
     "sha256_cert_fingerprints":
     ["A6:C9:19:7A:8A:62:29:50:D8:33:B9:6D:44:02:8E:D9:9E:B9:E8:0B:EC:39:EF:4B:F6:17:53:61:BE:F2:FD:EA"]
   }
